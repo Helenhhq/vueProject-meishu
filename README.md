@@ -1,4 +1,4 @@
-# hhq-shopgreens
+# 我的“美蔬”买菜App
 
 ## Project setup
 ```
